@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently studing in [USTC](https://en.ustc.edu.cn/ "USTC")-[SGY](https://en.scgy.ustc.edu.cn/ "USTC")
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RaymondzyLei&show_icons=true&&theme=radical"
