@@ -1,5 +1,11 @@
 ## Hi there 👋
 I am currently studing in [USTC](https://en.ustc.edu.cn/ "USTC")-[SGY](https://en.scgy.ustc.edu.cn/ "USTC")
+
+🔭 **Contact me**
+
+- 📫 E-mail: raymond.zy.lei@outlook.com
+- 🍨 QQ: 2730077919
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RaymondzyLei&show_icons=true&&theme=radical"
@@ -11,6 +17,9 @@ I am currently studing in [USTC](https://en.ustc.edu.cn/ "USTC")-[SGY](https://e
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RaymondzyLei&show_icons=true" />
 </picture>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaymondzyLei&layout=compact" />
+
 <!--
 <h3 align="left">Connect with me:</h3>    
 <p align="left">
